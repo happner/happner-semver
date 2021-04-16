@@ -1,0 +1,2 @@
+- from node semver@5.3.0
+- modified for browser

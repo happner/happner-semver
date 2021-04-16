@@ -1,0 +1,15 @@
+{
+  "name": "happner-semver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive ./test/**"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^8.3.2"
+  }
+}
